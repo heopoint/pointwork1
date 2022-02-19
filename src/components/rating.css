@@ -1,0 +1,6 @@
+.ratingStar{
+  color:#ccc
+}
+.ratingStar.selected{
+  color:deepskyblue
+}
