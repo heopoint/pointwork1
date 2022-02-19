@@ -1,4 +1,4 @@
-const BASE_URL = 'https://point-work.herokuapp.com/';
+const BASE_URL = 'https://point-work.herokuapp.com/api';
 
 export async function getReviews({
   order = 'createdAt',
